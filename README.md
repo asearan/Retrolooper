@@ -10,11 +10,13 @@
 | --- | --- | --- |
 | macOS · Apple Silicon | Standalone app, VST3, Audio Unit | [Apple Silicon ZIP](https://github.com/asearan/Retrolooper/releases/download/v1.1.0/Retrolooper-1.1.0-macOS-Apple-Silicon-Host-Sync.zip) |
 | macOS · Intel | Standalone app, VST3, Audio Unit | [Intel ZIP](https://github.com/asearan/Retrolooper/releases/download/v1.1.0/Retrolooper-1.1.0-macOS-Intel-Host-Sync.zip) |
-| Windows · x64 | Standalone app and optional VST3 | [Windows Setup](https://github.com/asearan/Retrolooper/releases/download/v1.1.0/RetroLooper-1.1.0-Windows-x64-Setup.exe) |
+| Windows · x64 | Standalone app and optional VST3 | [Windows Setup (revision 2)](https://github.com/asearan/Retrolooper/releases/download/v1.1.0/RetroLooper-1.1.0-Windows-x64-r2-Setup.exe) |
 
 [Download the PDF user guide](https://github.com/asearan/Retrolooper/releases/download/v1.1.0/RetroLooper-User-Guide.pdf) · [Release notes and checksums](https://github.com/asearan/Retrolooper/releases/tag/v1.1.0)
 
-On macOS, unzip the download and move **Retrolooper.app** to Applications. On Windows, run **RetroLooper-1.1.0-Windows-x64-Setup.exe** and leave the VST3 option selected if you use a DAW. The macOS ZIPs include plug-in installation instructions. The macOS bundles are ad hoc signed and have no Apple notarization.
+On macOS, unzip the download and move **Retrolooper.app** to Applications. On Windows, run **RetroLooper-1.1.0-Windows-x64-r2-Setup.exe** and leave the VST3 option selected if you use a DAW. The macOS ZIPs include plug-in installation instructions. The macOS bundles are ad hoc signed and have no Apple notarization.
+
+Windows alternatives: [portable app and VST3](https://github.com/asearan/Retrolooper/releases/download/v1.1.0/RetroLooper-1.1.0-Windows-x64-r2.zip) · [VST3 only](https://github.com/asearan/Retrolooper/releases/download/v1.1.0/RetroLooper-1.1.0-Windows-x64-r2-VST3.zip) · [Windows SHA-256 checksums](https://github.com/asearan/Retrolooper/releases/download/v1.1.0/SHA256SUMS-Windows-r2.txt).
 
 ## Four tracks in your DAW
 
