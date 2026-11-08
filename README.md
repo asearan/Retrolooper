@@ -8,8 +8,8 @@
 
 | Platform | Included | Download |
 | --- | --- | --- |
-| macOS · Apple Silicon | Standalone app, VST3, Audio Unit | [Apple Silicon ZIP](https://github.com/asearan/Retrolooper/releases/download/v1.1.0/Retrolooper-1.1.0-macOS-Apple-Silicon.zip) |
-| macOS · Intel | Standalone app, VST3, Audio Unit | [Intel ZIP](https://github.com/asearan/Retrolooper/releases/download/v1.1.0/Retrolooper-1.1.0-macOS-Intel.zip) |
+| macOS · Apple Silicon | Standalone app, VST3, Audio Unit | [Apple Silicon ZIP](https://github.com/asearan/Retrolooper/releases/download/v1.1.0/Retrolooper-1.1.0-macOS-Apple-Silicon-Host-Sync.zip) |
+| macOS · Intel | Standalone app, VST3, Audio Unit | [Intel ZIP](https://github.com/asearan/Retrolooper/releases/download/v1.1.0/Retrolooper-1.1.0-macOS-Intel-Host-Sync.zip) |
 | Windows · x64 | Standalone app and optional VST3 | [Windows Setup](https://github.com/asearan/Retrolooper/releases/download/v1.1.0/RetroLooper-1.1.0-Windows-x64-Setup.exe) |
 
 [Download the PDF user guide](https://github.com/asearan/Retrolooper/releases/download/v1.1.0/RetroLooper-User-Guide.pdf) · [Release notes and checksums](https://github.com/asearan/Retrolooper/releases/tag/v1.1.0)
