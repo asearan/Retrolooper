@@ -37,6 +37,37 @@ Windows alternatives: [portable app and VST3](https://github.com/asearan/Retrolo
 
 Build a setup with up to eight tracks, the mixer, per-track effects, MIDI and keyboard learn, and Ableton Link. The standalone app also includes PixelBeat, Retroscript, and Sound Crate.
 
+## Retrolooper One
+
+Retrolooper One is the single-track looper for a Mac DAW. It is a separate plug-in from the four-track RetroLooper above.
+
+### Download 1.0.0
+
+| Mac | Included | Download |
+| --- | --- | --- |
+| Apple Silicon | Audio Unit and VST3 | [Apple Silicon installer](https://github.com/asearan/Retrolooper/releases/download/one-v1.0.0/Retrolooper-One-1.0.0-macOS-arm64.dmg) |
+| Intel | Audio Unit and VST3 | [Intel installer](https://github.com/asearan/Retrolooper/releases/download/one-v1.0.0/Retrolooper-One-1.0.0-macOS-x86_64.dmg) |
+
+[Release notes and checksums](https://github.com/asearan/Retrolooper/releases/tag/one-v1.0.0)
+
+Open the disk image that matches the Mac. Double-click **Install Retrolooper One.pkg**. macOS asks for an administrator password. The package installs:
+
+- `/Library/Audio/Plug-Ins/Components/Retrolooper One.component`
+- `/Library/Audio/Plug-Ins/VST3/Retrolooper One.vst3`
+
+Rescan plug-ins, then insert **Retrolooper One**. It is a music-effect Audio Unit and an effect VST3. The Apple Silicon package opens only on an Apple Silicon Mac, and the Intel package opens only on an Intel Mac. The plug-ins are Developer ID signed. This release is not notarized, so Gatekeeper can ask the first time you open a downloaded package. If macOS blocks it, right-click the package and choose Open.
+
+This installer does not replace the four-track RetroLooper plug-in.
+
+![Retrolooper One looper page with the waveform, record, and playback controls](docs/images/one-looper.png)
+
+| Mixer and timing | Performance controls |
+| --- | --- |
+| [![Mixer](docs/images/one-mixer.png)](docs/images/one-mixer.png) **Mixer** for level, pan, take length, and WAV import or export | [![Timing](docs/images/one-timing.png)](docs/images/one-timing.png) **Timing** for host cycle length and when record, overdub, stop, and mute happen |
+| [![Pads](docs/images/one-pads.png)](docs/images/one-pads.png) **Pads** for playing and assigning controls | [![MIDI](docs/images/one-midi.png)](docs/images/one-midi.png) **MIDI** for note and CC learn, including tap, double tap, and hold |
+
+Host sync follows the DAW tempo and cycle. MIDI can be routed in and passed on. Learn is one button: choose a control and a gesture, turn Learn on, then send a note or CC.
+
 For the single-track Akai effect and optional hardware Controls, see [Retrolooper One for MPC and Force](https://github.com/asearan/Retrolooper-One-MPC-Force).
 
 [Donate via PayPal](https://paypal.me/adamsearan) to support Retrolooper development.
