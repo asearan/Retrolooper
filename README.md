@@ -72,4 +72,10 @@ For the single-track Akai effect and optional hardware Controls, see [Retroloope
 
 [Donate via PayPal](https://paypal.me/adamsearan) to support Retrolooper development.
 
+## Trademarks
+
+VST is a registered trademark of Steinberg Media Technologies GmbH.
+
+Audio Units is a trademark of Apple Inc.
+
 © 2026 Retroloop USA / IAMTHEBAND LLC.
